@@ -14,3 +14,4 @@
   4. Support vector machines
   5. Decision Tree
   6. Random forest
+  7. XG Boost
